@@ -1,6 +1,6 @@
 ### Hallo
 <!--Perhaps a bit of a lame first impression.-->
-![](https://komarev.com/ghpvc/?username=Kingcheetah-135&color=white&label=number:)
+![](https://komarev.com/ghpvc/?username=Kingcheetah-135&color=ffffff&label=number:)
 <!--
 **Kingcheetah-135/Kingcheetah-135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
