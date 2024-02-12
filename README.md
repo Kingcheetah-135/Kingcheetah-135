@@ -10,8 +10,9 @@ I have good ideas though.
 I guess I just never get around to coding them.
 (Or my skills are simply awfully lame and it takes an eternity to figure out how to code them.)
 
-Anyways, have a great day....
-Unlike my lame day.
+Anyways, have a great day.
+
+PS If you happen to know some tips for building chuck for Android you're welcome to let me know. (:
 -->
 ![](https://komarev.com/ghpvc/?username=Kingcheetah-135&color=163735&label=interesting&nbsp;number:)
 <!--
